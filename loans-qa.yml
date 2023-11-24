@@ -1,0 +1,14 @@
+
+
+build:
+  version: "2.0"
+
+loans:
+  message: "QA loans"
+  contactDetails:
+    name: "nitish"
+    email: "nk@gmail.com"
+  onCallSupport:
+    - 262
+    - 6526
+    - 26

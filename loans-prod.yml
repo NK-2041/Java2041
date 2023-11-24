@@ -1,0 +1,14 @@
+
+
+build:
+  version: "1.0"
+
+loans:
+  message: "prod loans"
+  contactDetails:
+    name: "nitish"
+    email: "nk@gmail.com"
+  onCallSupport:
+    - 262
+    - 6526
+    - 26

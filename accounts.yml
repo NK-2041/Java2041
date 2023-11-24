@@ -1,0 +1,14 @@
+build:
+  version: "3.0"
+
+
+
+accounts:
+  message: "dughb"
+  contactDetails:
+    name: "nitish"
+    email: "nk@gmail.com"
+  onCallSupport:
+    - 262
+    - 6526
+    - 26

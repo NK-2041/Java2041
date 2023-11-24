@@ -1,0 +1,14 @@
+
+
+build:
+  version: "1.0"
+
+cards:
+  message: "prod cards"
+  contactDetails:
+    name: "nitish"
+    email: "nk@gmail.com"
+  onCallSupport:
+    - 262
+    - 6526
+    - 26
