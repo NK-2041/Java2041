@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "production environment of accounts test"
+  message: "production environment of accounts test2"
   contactDetails:
     name: "nitish"
     email: "nk@gmail.com"
