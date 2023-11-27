@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: "dughb"
+  message: "This is default and data is coming from github and updated with webhook"
   contactDetails:
     name: "nitish"
     email: "nk@gmail.com"
